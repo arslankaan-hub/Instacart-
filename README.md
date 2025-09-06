@@ -1,1 +1,2 @@
-# Instacart-
+# Instacart grocery analysis
+## Project Summary
